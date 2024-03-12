@@ -5,8 +5,8 @@
 - Objetivo: Adquirir experiência e um emprego na área de desenvolvimento.
 
 
-- Atualmente estou aprendendo programação para desenvolvimento web.
-- Tenho interesse em aprender Python e React no futuro.
+- Atualmente estou aprendendo Desenvolvimento Web (HTML, CSS, JS) e Python.
+- Tenho interesse em me aprofundar na área de dados no futuro.
 
 - 📫 Contato: lucasdaminelli@hotmail.com
   
