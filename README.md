@@ -5,8 +5,14 @@
 - Objetivo: Adquirir experiência e um emprego na área de desenvolvimento.
 
 
-- Atualmente estou aprendendo Desenvolvimento Web (HTML, CSS, JS) e Python.
-- Tenho interesse em me aprofundar na área de dados no futuro.
+- Atualmente estou aprendendo Python para utilizar em análise de dados, com tecnologias como:
+    - Power BI
+    - Excel
+    - SQL
+- Possuo também conhecimentos em tecnologias utilizadas em desenvolvimento web como:
+    - Html
+    - CSS
+    - JS
 
 - 📫 Contato: lucasdaminelli@hotmail.com
   
