@@ -1,7 +1,7 @@
 - Bem vindo ao meu perfil do GitHub.
 
 - Nome: Lucas Daminelli
-- Idade: 21
+- Idade: 22
 - Objetivo: Adquirir experiência e um emprego na área de desenvolvimento.
 
 
